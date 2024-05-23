@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **talha.sumra11@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/TalhaSumra/TalhaSumra/blob/main/TalhaSumra(6%2B).pdf)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1LSHabJdVG5Yb5B-hg_1nR459ljkHVvUIM6RFTPXEx9M/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
