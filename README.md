@@ -36,6 +36,6 @@
 <p><a href="https://www.buymeacoffee.com/talhasumra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="talhasumra" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="start" src="https://github-readme-stats.vercel.app/api?username=talhasumra&show_icons=true&locale=en" alt="talhasumra" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=talhasumra&show_icons=true&locale=en" alt="talhasumra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhasumra&" alt="talhasumra" /></p>
